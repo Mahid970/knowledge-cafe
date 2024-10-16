@@ -2,7 +2,8 @@
   {
     "id": "e3b0c442-98fc-1fc9-bbce-0ab2fce6eb9d",
     "banner_img": "https://i.ibb.co/84Zfw2n/1.jpg",
-    "title": "Exploring the Serenity of Hidden Waterfalls",
+    "title": "Exploring the Rise of Quantum Computing",
+    "description": "A deep dive into quantum computing and how it could revolutionize industries like cryptography and artificial intelligence.",
     "author_name": "John Doe",
     "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
     "publish_date": "2023-10-12",
@@ -12,7 +13,8 @@
   {
     "id": "4c8e4f52-8d21-4fc5-8a61-89de3e7f1c94",
     "banner_img": "https://i.ibb.co/6N2dgnZ/2.png",
-    "title": "The Future of AI: What's Next?",
+    "title": "Top 10 Emerging Technologies to Watch in 2024",
+    "description": "From blockchain to bioprinting, discover the cutting-edge technologies set to make waves in the coming year.",
     "author_name": "Sarah Connor",
     "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
     "publish_date": "2023-09-28",
@@ -22,7 +24,8 @@
   {
     "id": "c3f7ef31-9b82-4d9a-8650-bcba206e8ea6",
     "banner_img": "https://i.ibb.co/RzGzcPg/3.png",
-    "title": "10 Easy Recipes for Quick Weeknight Dinners",
+    "title": "How 5G is Shaping the Future of Connectivity",
+    "description": "An analysis of how 5G technology is changing industries from telecommunications to autonomous vehicles.",
     "author_name": "Emily Smith",
     "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
     "publish_date": "2023-08-15",
@@ -32,8 +35,8 @@
   {
     "id": "5b6b5ff1-1e95-4a1f-80a9-ccf00aaf3a68",
     "banner_img": "https://i.ibb.co/vvTfkcv/4.jpg",
-    "title": "Achieving Your Fitness Goals with Simple Home Workouts",
-    "author_name": "Jake Williams",
+    "title": "Cybersecurity in 2024: New Threats and Solutions",
+    "description": "An overview of the latest cybersecurity threats and how companies are adapting to protect data and privacy.",
     "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
     "publish_date": "2023-07-30",
     "reading_time": 4,
